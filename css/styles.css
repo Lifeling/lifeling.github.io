@@ -2,7 +2,8 @@
 
 h1 {
   text-align: center;
-  box-shadow: 2px 5px 5px blue;
   font-family: 'Indie Flower', cursive;
+  font-size: 24pt
+  width: 20%
 
 }
